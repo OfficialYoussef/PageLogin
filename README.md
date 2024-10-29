@@ -46,4 +46,3 @@ The login page is designed with a clean layout and includes a form where users c
         <label for='Password'>Password</label>
         <input type='password' placeholder='password' id='pass'>
         <button>Log In</button>
-        <
